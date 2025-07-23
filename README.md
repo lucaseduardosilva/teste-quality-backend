@@ -14,10 +14,10 @@ Este projeto é a API REST para um sistema de cadastro de clientes, desenvolvida
 
 ## 📦 Funcionalidades da API
 
-- ✅ Criar cliente
-- 🔄 Atualizar cliente
-- ❌ Deletar cliente
-- 📄 Listar clientes
+- ✅ Criar cliente  
+- 🔄 Atualizar cliente  
+- ❌ Deletar cliente  
+- 📄 Listar clientes  
 - 🔍 Buscar por `Código`, `Nome`, `Cidade`, `CEP`
 
 ---
@@ -45,3 +45,26 @@ Este projeto é a API REST para um sistema de cadastro de clientes, desenvolvida
 | validade         | date         |
 
 ---
+
+## ▶️ Como executar o projeto
+
+### 📥 1. Clone o repositório
+
+```bash
+git clone https://github.com/lucaseduardosilva/teste-quality-backend
+cd teste-quality-backend
+```
+
+### 📦 2. Instale as dependências
+
+```bash
+npm install
+```
+
+### 🚀 3. Inicie o servidor
+
+```bash
+node index.js
+```
+
+A API será iniciada em: http://localhost:3001
